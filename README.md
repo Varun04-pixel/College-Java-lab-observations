@@ -2,4 +2,4 @@
 
 ## 👤 Student Information
 * **Student Name:** Varun Shinde
-* **Course:** Object-Oriented Programming with Java
+* **Subject:** Object-Oriented Programming with Java
